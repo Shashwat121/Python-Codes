@@ -56,10 +56,3 @@ for i in range(0,len(list_content),1):
 
 print("Output data on swapping the middle digits for a 4 digit number only")
 print(result_list)
-
-
-
-
-
-
-
